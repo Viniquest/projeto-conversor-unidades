@@ -1,0 +1,1 @@
+Conversao: Celsius para Kelvin | Valor: 300.00 | Resultado: 573.00
